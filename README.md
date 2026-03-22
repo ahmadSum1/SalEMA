@@ -32,9 +32,9 @@ Find the published version of our work here: [arXiv](https://arxiv.org/abs/1907.
 
 ![TemporalEDmodel](https://raw.githubusercontent.com/Linardos/SalEMA/gh-pages/TemporalEDmodel.jpg)
 
-* Download our best configuration of the SalEMA model [here (364MB)](https://imatge.upc.edu/web/sites/default/files/projects/saliency/public/VideoSalGAN-II/SalEMA30.pt)
-* Download our best configuration of the SalCLSTM model [here (580MB)](https://imatge.upc.edu/web/sites/default/files/projects/saliency/public/VideoSalGAN-II/SalCLSTM30.pt)
-* Download our baseline, the SalBCE model [here (364MB)](https://imatge.upc.edu/web/sites/default/files/projects/saliency/public/VideoSalGAN-II/SalBCE.pt)
+* Download our best configuration of the SalEMA model [here (364MB)](https://drive.google.com/file/d/1zkclJE0Jjtqg4Lgy-M3OLsQ7VvRR8Pcd/view?usp=sharing)
+* ~~Download our best configuration of the SalCLSTM model [here (580MB)](https://imatge.upc.edu/web/sites/default/files/projects/saliency/public/VideoSalGAN-II/SalCLSTM30.pt)~~
+* ~~Download our baseline, the SalBCE model [here (364MB)](https://imatge.upc.edu/web/sites/default/files/projects/saliency/public/VideoSalGAN-II/SalBCE.pt)~~
 
 Sample video (click to be redirected to youtube):
 
